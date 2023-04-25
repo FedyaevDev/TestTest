@@ -10,6 +10,10 @@ namespace ConsoleApp28
     {
         static void Main(string[] args)
         {
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Hello\n");
+            }
             Console.WriteLine("Hello world!");
         }
     }
