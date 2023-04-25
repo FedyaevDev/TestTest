@@ -14,6 +14,7 @@ namespace ConsoleApp28
             {
                 Console.WriteLine("Hello\n");
             }
+            Console.WriteLine("Hello world!");
         }
     }
 }
